@@ -314,6 +314,11 @@ section {
   margin: auto 0;
 }
 
+.text-container p{
+  text-indent: 3rem;
+}
+
+
 /* EXPERIENCE SECTION */
 
 #experience {
